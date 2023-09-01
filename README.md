@@ -7,3 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoJiafeng573)](https://github.com/HaoJiafeng573/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoJiafeng573&layout=compact)](https://github.com/HaoJiafeng573/github-readme-stats)
+
+![ HaoJiafeng573's GitHub stats](https://github-readme-stats.vercel.app/api?username= HaoJiafeng573&show_icons=true&theme=tokyonight)
