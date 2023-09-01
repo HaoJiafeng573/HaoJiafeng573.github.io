@@ -78,6 +78,5 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-![Visitor Count](https://profile-counter.glitch.me/HaoJiafeng/count.svg)
 
 
